@@ -102,128 +102,128 @@
 ---
 
 ## 1. Introduction to Epidemiology
-- Definition and Importance of Epidemiology
-- History and Evolution of Epidemiology
-- Key Concepts and Terms in Epidemiology
+- [Definition and Importance of Epidemiology]
+- [History and Evolution of Epidemiology]
+- [Key Concepts and Terms in Epidemiology]
 
 ## 2. Types of Epidemiology
-- Descriptive Epidemiology
-  - Overview and Importance
-  - Case Studies and Examples
-- Analytical Epidemiology
-  - Study Designs: Cohort, Case-Control, Cross-Sectional
-  - Measures of Association: Relative Risk, Odds Ratio
-- Experimental Epidemiology
-  - Randomized Controlled Trials (RCTs)
-  - Field Trials and Community Trials
+- [Descriptive Epidemiology]
+  - [Overview and Importance]
+  - [Case Studies and Examples]
+- [Analytical Epidemiology]
+  - [Study Designs: Cohort, Case-Control, Cross-Sectional]
+  - [Measures of Association: Relative Risk, Odds Ratio]
+- [Experimental Epidemiology]
+  - [Randomized Controlled Trials (RCTs)]
+  - [Field Trials and Community Trials]
 
 ## 3. Epidemiological Study Designs
-- Observational Studies
-  - Types: Cohort, Case-Control, Cross-Sectional
-  - Strengths and Weaknesses
-- Experimental Studies
-  - Randomized Controlled Trials (RCTs)
-  - Ethical Considerations in Experimental Studies
-- Case Studies: Application of Different Study Designs
+- [Observational Studies]
+  - [Types: Cohort, Case-Control, Cross-Sectional]
+  - [Strengths and Weaknesses]
+- [Experimental Studies]
+  - [Randomized Controlled Trials (RCTs)]
+  - [Ethical Considerations in Experimental Studies]
+- [Case Studies: Application of Different Study Designs]
 
 ## 4. Measures in Epidemiology
-- Measures of Disease Frequency
-  - Incidence, Prevalence, Mortality Rates
-- Measures of Association
-  - Relative Risk, Odds Ratio, Attributable Risk
-- Measures of Impact
-  - Population Attributable Risk, Number Needed to Treat
+- [Measures of Disease Frequency]
+  - [Incidence, Prevalence, Mortality Rates]
+- [Measures of Association]
+  - [Relative Risk, Odds Ratio, Attributable Risk]
+-[ Measures of Impact]
+  - [Population Attributable Risk, Number Needed to Treat]
 
 ## 5. Data Collection and Sources
-- Data Collection Methods in Epidemiology
-  - Surveys, Registries, Vital Statistics
-- Types of Epidemiological Data
-  - Quantitative vs. Qualitative Data
-  - Primary vs. Secondary Data Sources
-- Ethical Considerations in Data Collection
+- [Data Collection Methods in Epidemiology]
+  - [Surveys, Registries, Vital Statistics]
+- [Types of Epidemiological Data]
+  - [Quantitative vs. Qualitative Data]
+  - [Primary vs. Secondary Data Sources]
+- [Ethical Considerations in Data Collection]
 
 ## 6. Disease Surveillance
-- Importance and Purpose of Disease Surveillance
-- Types of Surveillance Systems
-  - Active, Passive, Sentinel Surveillance
-- Global Surveillance Systems
-  - WHO, CDC, and Other International Organizations
-- Challenges and Innovations in Disease Surveillance
+- [Importance and Purpose of Disease Surveillance]
+- [Types of Surveillance Systems]
+  - [Active, Passive, Sentinel Surveillance]
+- [Global Surveillance Systems]
+  - [WHO, CDC, and Other International Organizations]
+- [Challenges and Innovations in Disease Surveillance]
 
 ## 7. Outbreak Investigation
-- Steps in Outbreak Investigation
-  - Confirming the Outbreak, Case Definition, Hypothesis Generation
-- Methods for Identifying and Tracking Disease Outbreaks
-- Case Studies: Notable Outbreak Investigations
+- [Steps in Outbreak Investigation]
+  - [Confirming the Outbreak, Case Definition, Hypothesis Generation]
+- [Methods for Identifying and Tracking Disease Outbreaks]
+- [Case Studies: Notable Outbreak Investigations]
 
 ## 8. Epidemiological Research and Analysis
-- Hypothesis Formulation in Epidemiology
-- Statistical Methods in Epidemiology
-  - Descriptive Statistics, Inferential Statistics
-- Use of Software Tools in Epidemiological Analysis
-  - R, SPSS, SAS, Stata
-- Interpretation and Communication of Epidemiological Findings
+- [Hypothesis Formulation in Epidemiology]
+- [Statistical Methods in Epidemiology]
+  - [Descriptive Statistics, Inferential Statistics]
+- [Use of Software Tools in Epidemiological Analysis]
+  - [R, SPSS, SAS, Stata]
+- [Interpretation and Communication of Epidemiological Findings]
 
 ## 9. Bias, Confounding, and Interaction
-- Types of Bias in Epidemiological Studies
-  - Selection Bias, Information Bias, Recall Bias
-- Confounding Variables and How to Address Them
-- Interaction and Effect Modification
-- Strategies to Minimize Bias and Confounding
+- [Types of Bias in Epidemiological Studies]
+  - [Selection Bias, Information Bias, Recall Bias]
+- [Confounding Variables and How to Address Them]
+- [Interaction and Effect Modification]
+- [Strategies to Minimize Bias and Confounding]
 
 ## 10. Screening and Prevention in Epidemiology
-- Principles of Screening
-  - Sensitivity, Specificity, Predictive Values
-- Types of Screening Programs
-  - Population-Based, High-Risk Screening
+- [Principles of Screening]
+  - [Sensitivity, Specificity, Predictive Values]
+- [Types of Screening Programs]
+  - [Population-Based, High-Risk Screening]
 - Prevention Strategies in Epidemiology
-  - Primary, Secondary, Tertiary Prevention
-- Ethical Considerations in Screening and Prevention
+  - [Primary, Secondary, Tertiary Prevention]
+- [Ethical Considerations in Screening and Prevention]
 
 ## 11. Infectious Disease Epidemiology
-- Transmission Dynamics of Infectious Diseases
-- Epidemiology of Major Infectious Diseases
-  - HIV/AIDS, Tuberculosis, Malaria, Influenza
-- Vaccination and Immunization Programs
-- Emerging and Re-Emerging Infectious Diseases
+- [Transmission Dynamics of Infectious Diseases]
+- [Epidemiology of Major Infectious Diseases]
+  - [HIV/AIDS, Tuberculosis, Malaria, Influenza]
+- [Vaccination and Immunization Programs]
+- [Emerging and Re-Emerging Infectious Diseases]
 
 ## 12. Chronic Disease Epidemiology
-- Epidemiology of Non-Communicable Diseases (NCDs)
-  - Cardiovascular Diseases, Diabetes, Cancer
-- Risk Factors and Prevention Strategies for NCDs
-- Role of Lifestyle and Environment in Chronic Diseases
-- Case Studies: Successful Interventions for Chronic Diseases
+- [Epidemiology of Non-Communicable Diseases (NCDs)]
+  - [Cardiovascular Diseases, Diabetes, Cancer]
+- [Risk Factors and Prevention Strategies for NCDs]
+- [Role of Lifestyle and Environment in Chronic Diseases]
+- [Case Studies: Successful Interventions for Chronic Diseases]
 
 ## 13. Social Determinants of Health
-- Impact of Social, Economic, and Environmental Factors on Health
-- Role of Health Disparities in Epidemiology
-- Strategies to Address Social Determinants of Health
-- Case Studies: Epidemiology and Health Equity
+- [Impact of Social, Economic, and Environmental Factors on Health]
+- [Role of Health Disparities in Epidemiology]
+- [Strategies to Address Social Determinants of Health]
+- [Case Studies: Epidemiology and Health Equity]
 
 ## 14. Environmental and Occupational Epidemiology
-- Impact of Environmental Factors on Health
-  - Air, Water, Soil Pollution
-- Epidemiology of Occupational Diseases
-  - Respiratory Diseases, Musculoskeletal Disorders
-- Environmental Risk Assessment and Management
-- Global Initiatives in Environmental and Occupational Health
+- [Impact of Environmental Factors on Health]
+  - [Air, Water, Soil Pollution]
+- [Epidemiology of Occupational Diseases]
+  - [Respiratory Diseases, Musculoskeletal Disorders]
+- [Environmental Risk Assessment and Management]
+- [Global Initiatives in Environmental and Occupational Health]
 
 ## 15. Global Health Epidemiology
-- Epidemiology in the Global Health Context
-- Global Burden of Disease
-- Epidemiological Transition in Developing Countries
-- Role of International Organizations in Global Epidemiology
+- [Epidemiology in the Global Health Context]
+- [Global Burden of Disease]
+- [Epidemiological Transition in Developing Countries]
+- [Role of International Organizations in Global Epidemiology]
 
 ## 16. Ethical and Legal Issues in Epidemiology
-- Ethical Principles in Epidemiological Research
-- Informed Consent and Confidentiality
-- Legal Aspects of Epidemiological Studies
-- Case Studies: Ethical Dilemmas in Epidemiology
+- [Ethical Principles in Epidemiological Research]
+- [Informed Consent and Confidentiality]
+- [Legal Aspects of Epidemiological Studies]
+- [Case Studies: Ethical Dilemmas in Epidemiology]
 
 ## 17. Future Trends in Epidemiology
-- Impact of Technology on Epidemiology
-  - Big Data, AI, Machine Learning
-- Emerging Infectious and Chronic Diseases
-- Global Health Challenges and Epidemiological Responses
-- Future Directions for Epidemiological Research
+- [Impact of Technology on Epidemiology]
+  - [Big Data, AI, Machine Learning]
+- [Emerging Infectious and Chronic Diseases]
+- [Global Health Challenges and Epidemiological Responses]
+- [Future Directions for Epidemiological Research]
 
