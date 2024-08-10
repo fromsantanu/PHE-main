@@ -1,5 +1,5 @@
 # Part I - Public Health (National and International Perspective)
-
+--
 ## 1. Introduction to Public Health
 - Definition and Scope of Public Health
 - Key Functions of Public Health
