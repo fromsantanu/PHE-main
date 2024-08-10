@@ -99,6 +99,8 @@
 #
 # Part II - Study of Epidemiology
 
+---
+
 ## 1. Introduction to Epidemiology
 - Definition and Importance of Epidemiology
 - History and Evolution of Epidemiology
