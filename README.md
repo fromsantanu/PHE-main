@@ -103,20 +103,20 @@
 ---
 
 ## 1. Introduction to Epidemiology
-- [Definition and Importance of Epidemiology](#)
-- [History and Evolution of Epidemiology](#)
-- [Key Concepts and Terms in Epidemiology](#)
+- [Definition and Importance of Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter01.md)
+- [History and Evolution of Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter02.md)
+- [Key Concepts and Terms in Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter03.md)
 
 ## 2. Types of Epidemiology
-- [Descriptive Epidemiology](#)
-  - [Overview and Importance](#)
-  - [Case Studies and Examples](#)
-- [Analytical Epidemiology](#)
-  - [Study Designs: Cohort, Case-Control, Cross-Sectional](#)
-  - [Measures of Association: Relative Risk, Odds Ratio](#)
-- [Experimental Epidemiology](#)
-  - [Randomized Controlled Trials (RCTs)](#)
-  - [Field Trials and Community Trials](#)
+- [Descriptive Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter04.md)
+  - [Overview and Importance](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter05.md)
+  - [Case Studies and Examples](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter06.md)
+- [Analytical Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter07.md)
+  - [Study Designs: Cohort, Case-Control, Cross-Sectional](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter08.md)
+  - [Measures of Association: Relative Risk, Odds Ratio](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter09.md)
+- [Experimental Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter10.md)
+  - [Randomized Controlled Trials (RCTs)](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter11.md)
+  - [Field Trials and Community Trials](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter12.md)
 
 ## 3. Epidemiological Study Designs
 - [Observational Studies](#)
