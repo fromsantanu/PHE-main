@@ -8,7 +8,7 @@
 - [Historical Development of Public Health](https://github.com/fromsantanu/PHE-main/blob/main/PH/Chapter03.md)
 
 ## 2. Public Health Systems and Infrastructure
-- [National Public Health Systems](#)
+- [National Public Health Systems](https://github.com/fromsantanu/PHE-main/blob/main/PH/Chapter031.md)
 - [Global Public Health Organizations (WHO, CDC, etc.)](https://github.com/fromsantanu/PHE-main/blob/main/PH/Chapter04.md)
 - [Role of Non-Governmental Organizations (NGOs) in Public Health](https://github.com/fromsantanu/PHE-main/blob/main/PH/Chapter05.md)
 - [Public Health Infrastructure in Low, Middle, and High-Income Countries](https://github.com/fromsantanu/PHE-main/blob/main/PH/Chapter06.md)
