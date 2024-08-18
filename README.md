@@ -184,47 +184,47 @@
 ## 11. Infectious Disease Epidemiology
 - [Transmission Dynamics of Infectious Diseases](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter60.md)
 - [Epidemiology of Major Infectious Diseases](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter61.md)
-  - [HIV/AIDS, Tuberculosis, Malaria, Influenza](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter61.md)
-- [Vaccination and Immunization Programs](#)
-- [Emerging and Re-Emerging Infectious Diseases](#)
+  - [HIV/AIDS, Tuberculosis, Malaria, Influenza](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter62.md)
+- [Vaccination and Immunization Programs](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter63.md)
+- [Emerging and Re-Emerging Infectious Diseases](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter64.md)
 
 ## 12. Chronic Disease Epidemiology
-- [Epidemiology of Non-Communicable Diseases (NCDs)](#)
-  - [Cardiovascular Diseases, Diabetes, Cancer](#)
-- [Risk Factors and Prevention Strategies for NCDs](#)
-- [Role of Lifestyle and Environment in Chronic Diseases](#)
-- [Case Studies: Successful Interventions for Chronic Diseases](#)
+- [Epidemiology of Non-Communicable Diseases (NCDs)](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter65.md)
+  - [Cardiovascular Diseases, Diabetes, Cancer](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter66.md)
+- [Risk Factors and Prevention Strategies for NCDs](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter67.md)
+- [Role of Lifestyle and Environment in Chronic Diseases](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter68.md)
+- [Case Studies: Successful Interventions for Chronic Diseases](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter69.md)
 
 ## 13. Social Determinants of Health
-- [Impact of Social, Economic, and Environmental Factors on Health](#)
-- [Role of Health Disparities in Epidemiology](#)
-- [Strategies to Address Social Determinants of Health](#)
-- [Case Studies: Epidemiology and Health Equity](#)
+- [Impact of Social, Economic, and Environmental Factors on Health](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter70.md)
+- [Role of Health Disparities in Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter71.md)
+- [Strategies to Address Social Determinants of Health](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter72.md)
+- [Case Studies: Epidemiology and Health Equity](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter73.md)
 
 ## 14. Environmental and Occupational Epidemiology
-- [Impact of Environmental Factors on Health](#)
-  - [Air, Water, Soil Pollution](#)
-- [Epidemiology of Occupational Diseases](#)
-  - [Respiratory Diseases, Musculoskeletal Disorders](#)
-- [Environmental Risk Assessment and Management](#)
-- [Global Initiatives in Environmental and Occupational Health](#)
+- [Impact of Environmental Factors on Health](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter74.md)
+  - [Air, Water, Soil Pollution](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter75.md)
+- [Epidemiology of Occupational Diseases](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter76.md)
+  - [Respiratory Diseases, Musculoskeletal Disorders](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter77.md)
+- [Environmental Risk Assessment and Management](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter78.md)
+- [Global Initiatives in Environmental and Occupational Health](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter79.md)
 
 ## 15. Global Health Epidemiology
-- [Epidemiology in the Global Health Context](#)
-- [Global Burden of Disease](#)
-- [Epidemiological Transition in Developing Countries](#)
-- [Role of International Organizations in Global Epidemiology](#)
+- [Epidemiology in the Global Health Context](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter80.md)
+- [Global Burden of Disease](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter81.md)
+- [Epidemiological Transition in Developing Countries](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter82.md)
+- [Role of International Organizations in Global Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter83.md)
 
 ## 16. Ethical and Legal Issues in Epidemiology
-- [Ethical Principles in Epidemiological Research](#)
-- [Informed Consent and Confidentiality](#)
-- [Legal Aspects of Epidemiological Studies](#)
-- [Case Studies: Ethical Dilemmas in Epidemiology](#)
+- [Ethical Principles in Epidemiological Research](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter84.md)
+- [Informed Consent and Confidentiality](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter85.md)
+- [Legal Aspects of Epidemiological Studies](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter86.md)
+- [Case Studies: Ethical Dilemmas in Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter87.md)
 
 ## 17. Future Trends in Epidemiology
-- [Impact of Technology on Epidemiology](#)
-  - [Big Data, AI, Machine Learning](#)
-- [Emerging Infectious and Chronic Diseases](#)
-- [Global Health Challenges and Epidemiological Responses](#)
-- [Future Directions for Epidemiological Research](#)
+- [Impact of Technology on Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter88.md)
+  - [Big Data, AI, Machine Learning](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter89.md)
+- [Emerging Infectious and Chronic Diseases](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter90.md)
+- [Global Health Challenges and Epidemiological Responses](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter91.md)
+- [Future Directions for Epidemiological Research](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter92.md)
 
