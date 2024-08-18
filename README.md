@@ -177,7 +177,7 @@
   - [Sensitivity, Specificity, Predictive Values](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter54.md)
 - [Types of Screening Programs](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter55.md)
   - [Population-Based, High-Risk Screening](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter56.md)
-- Prevention Strategies in Epidemiology(https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter57.md)
+- [Prevention Strategies in Epidemiology](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter57.md)
   - [Primary, Secondary, Tertiary Prevention](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter58.md)
 - [Ethical Considerations in Screening and Prevention](https://github.com/fromsantanu/PHE-main/blob/main/EPDM/Chapter59.md)
 
