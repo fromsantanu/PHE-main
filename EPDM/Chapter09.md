@@ -19,8 +19,8 @@ $\text{Relative Risk (RR)} = \frac{\text{Risk in the exposed group}}{\text{Risk 
 
 
 Where:
-- **Risk in the exposed group** = \(\frac{\text{Number of exposed individuals who develop the outcome}}{\text{Total number of exposed individuals}}\)
-- **Risk in the unexposed group** = \(\frac{\text{Number of unexposed individuals who develop the outcome}}{\text{Total number of unexposed individuals}}\)
+- **Risk in the exposed group** = $\frac{\text{Number of exposed individuals who develop the outcome}}{\text{Total number of exposed individuals}}$
+- **Risk in the unexposed group** = $\frac{\text{Number of unexposed individuals who develop the outcome}}{\text{Total number of unexposed individuals}}$
 
 ##### 9.2.3 Interpretation
 
