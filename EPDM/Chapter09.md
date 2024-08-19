@@ -15,7 +15,7 @@ In analytical epidemiology, understanding the relationship between exposures and
 Relative Risk is calculated using the following formula:
 
 
-$\text{Relative Risk (RR)} = \frac{\text{Risk in the exposed group}}{\text{Risk in the unexposed group}}$
+**Relative Risk (RR)** = $\frac{\text{Risk in the exposed group}}{\text{Risk in the unexposed group}}$
 
 
 Where:
