@@ -19,21 +19,21 @@ Understanding how often a disease occurs in a population is central to epidemiol
 
 - **Incidence**: The number of new cases of a disease that occur in a specified population during a defined period. Incidence is often expressed as an incidence rate, which is the number of new cases per unit of population per unit of time (e.g., per 1,000 persons per year).
 
-  \[
-  \text{Incidence Rate} = \frac{\text{Number of new cases}}{\text{Population at risk during the period}} \times \text{Multiplier (e.g., 100,000)}
-  \]
+
+  $\text{Incidence Rate} = \frac{\text{Number of new cases}}{\text{Population at risk during the period}} \times \text{Multiplier (e.g., 100,000)}$
+
 
 - **Prevalence**: The total number of cases of a disease that exist in a population at a specific point in time (point prevalence) or over a specified period (period prevalence).
 
-  \[
-  \text{Prevalence} = \frac{\text{Number of existing cases}}{\text{Total population at a specific time}} \times \text{Multiplier (e.g., 100,000)}
-  \]
+
+  $\text{Prevalence} = \frac{\text{Number of existing cases}}{\text{Total population at a specific time}} \times \text{Multiplier (e.g., 100,000)}$
+
 
 - **Mortality**: The frequency of death in a population. Mortality rates can be specific to a cause (e.g., cancer mortality rate) or general (overall mortality rate).
 
-  \[
-  \text{Mortality Rate} = \frac{\text{Number of deaths}}{\text{Population at risk during the period}} \times \text{Multiplier (e.g., 100,000)}
-  \]
+
+  $\text{Mortality Rate} = \frac{\text{Number of deaths}}{\text{Population at risk during the period}} \times \text{Multiplier (e.g., 100,000)}$
+
 
 ##### 3.2.3 Risk
 
@@ -42,15 +42,15 @@ Risk is a measure of the likelihood that an individual will develop a disease or
 - **Absolute Risk**: The actual probability of an individual developing a disease over a certain period.
 - **Relative Risk (Risk Ratio)**: The ratio of the risk of a health outcome in an exposed group to the risk in an unexposed group.
 
-  \[
-  \text{Relative Risk (RR)} = \frac{\text{Risk in exposed group}}{\text{Risk in unexposed group}}
-  \]
+
+  $\text{Relative Risk (RR)} = \frac{\text{Risk in exposed group}}{\text{Risk in unexposed group}}$
+
 
 - **Attributable Risk**: The difference in the risk of a health outcome between an exposed group and an unexposed group.
 
-  \[
-  \text{Attributable Risk (AR)} = \text{Risk in exposed group} - \text{Risk in unexposed group}
-  \]
+
+  $\text{Attributable Risk (AR)} = \text{Risk in exposed group} - \text{Risk in unexposed group}$
+
 
 ##### 3.2.4 Causality
 
@@ -103,25 +103,25 @@ Epidemiologists use various measures to quantify the relationship between exposu
 
 The **odds ratio (OR)** compares the odds of an outcome occurring in the exposed group to the odds in the unexposed group. It is commonly used in case-control studies.
 
-\[
-\text{Odds Ratio (OR)} = \frac{\text{Odds of outcome in exposed group}}{\text{Odds of outcome in unexposed group}}
-\]
+
+$\text{Odds Ratio (OR)} = \frac{\text{Odds of outcome in exposed group}}{\text{Odds of outcome in unexposed group}}$
+
 
 ##### 3.4.2 Hazard Ratio
 
 The **hazard ratio (HR)** is used in survival analysis to compare the rate of occurrence of an event (such as death) between two groups over time. It is commonly used in cohort studies and clinical trials.
 
-\[
-\text{Hazard Ratio (HR)} = \frac{\text{Hazard rate in exposed group}}{\text{Hazard rate in unexposed group}}
-\]
+
+$\text{Hazard Ratio (HR)} = \frac{\text{Hazard rate in exposed group}}{\text{Hazard rate in unexposed group}}$
+
 
 ##### 3.4.3 Population Attributable Risk
 
 The **population attributable risk (PAR)** estimates the proportion of the incidence of a disease in the population that can be attributed to a particular exposure. It helps in understanding the public health impact of removing or reducing exposure.
 
-\[
-\text{Population Attributable Risk (PAR)} = \frac{\text{Incidence in the population} - \text{Incidence in the unexposed group}}{\text{Incidence in the population}} \times 100
-\]
+
+$\text{Population Attributable Risk (PAR)} = \frac{\text{Incidence in the population} - \text{Incidence in the unexposed group}}{\text{Incidence in the population}} \times 100$
+
 
 #### 3.5 Screening and Surveillance
 
